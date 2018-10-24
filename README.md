@@ -35,6 +35,6 @@ If you use a framework, example for *CodeIgniter* within some controller method 
         $brojzaslova = "500.35";
 
         // conversion of number in a letter
-        $data['sumslovima'] = $this→class_brojuslova >upravljac($brojzaslova);
+        $data['sumslovima'] = $this->class_brojuslova->upravljac($brojzaslova);
     
     ?>
